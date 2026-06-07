@@ -1,5 +1,5 @@
 [project]
-name = "uv-tutorial"
+name = "tutorial-uv"
 version = "0.1.0"
 description = "A practical guide to uv(python package management) for software engineers"
 readme = "README.md"

@@ -30,7 +30,7 @@ uv run python main.py
 
 ```text
 Python 3.13.x
-Hello from uv-intro!
+Hello from tutorial-uv!
 ```
 
 ## 이 프로젝트에서 중요한 규칙

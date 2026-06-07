@@ -1,4 +1,4 @@
-# uv-intro 실행 가이드 (복붙 즉시 실행)
+# tutorial-uv 실행 가이드 (복붙 즉시 실행)
 
 이 문서는 uv를 처음 쓰는 소프트웨어 엔지니어가 이 저장소를 바로 실행할 수 있도록 작성되었다.
 
@@ -33,7 +33,7 @@ uv run python main.py
 
 정상 결과:
 - `uv run python -V` 결과가 `Python 3.13.x`
-- `uv run python main.py` 결과가 `Hello from uv-intro!`
+- `uv run python main.py` 결과가 `Hello from tutorial-uv!`
 
 설명:
 - `uv python install 3.13`: uv 관리 Python 런타임을 준비
