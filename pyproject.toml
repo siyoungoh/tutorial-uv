@@ -1,0 +1,14 @@
+[project]
+name = "uv-tutorial"
+version = "0.1.0"
+description = "A practical guide to uv(python package management) for software engineers"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "requests>=2.34.2",
+]
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.3",
+]
