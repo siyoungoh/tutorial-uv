@@ -3,8 +3,8 @@
 uv를 처음 사용하는 소프트웨어 엔지니어를 위한 최소 Python 프로젝트 예제입니다.
 
 ## 설치
-
-- https://docs.astral.sh/uv/getting-started/installation/
+- python 설치 : https://www.python.org/downloads/ (python 3.13 버전 추천. 2026.06.08 기준)
+- uv 설치 : https://docs.astral.sh/uv/getting-started/installation/
 
 - 사내망/폐쇄망 사용시 사전 설정이 필요합니다. [폐쇄망 설정 체크리스트](docs/UV_ENV_CHECKLIST.md)
 
